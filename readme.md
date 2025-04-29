@@ -4,6 +4,7 @@ ENG: This proyect work correctly only with these libraries
     ---openpyxl (pip install openpyxl)
     At least, install pandas
     (pip install pandas), I recomend install those libraries in a virtual environment
+    
 ESP: Este proyecto funcionara correctamente solo con estas librerias
     ---PyQt5 (pip install PyQt5)
     La siguiente herramientas nos ayuda a exportar un archivo de excel [xlsx]
